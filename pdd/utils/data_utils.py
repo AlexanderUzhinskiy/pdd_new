@@ -9,7 +9,7 @@ import imageio
 
 import numpy as np
 from glob import glob
-from imageio.imread import imread
+from imageio import imread
 from tqdm import tqdm
 
 
