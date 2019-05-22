@@ -2,10 +2,11 @@
 '''
 import os
 import numpy as np
+import imageio
 
 from abc import ABC, abstractmethod
 from glob import glob
-from scipy.ndimage import imread
+from imageio import imread
 from keras.preprocessing.image import ImageDataGenerator
 
 
