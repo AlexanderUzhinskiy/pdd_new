@@ -5,6 +5,7 @@ import six
 import shutil
 import tarfile
 import zipfile
+import imageio
 
 import numpy as np
 from glob import glob
