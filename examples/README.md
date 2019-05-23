@@ -15,10 +15,10 @@ To run .ipynb files from this repository on your desktop or a laptop:
 2) clone PDD using git: 
 
 ```Python
-git clone https://github.com/Kaliostrogoblin/PDD.git
+git clone https://github.com/AlexanderUzhinskiy/pdd_new.git
 ```
 
-3) then, `cd` to the PDD folder and feel free to use it:
+3) then, `cd` to the pdd_new folder and feel free to use it:
 
 ```
 cd PDD
@@ -28,7 +28,7 @@ cd PDD
 
 Simply follow the links:
 
-- [Train_Siamese_Network.ipynb](https://colab.research.google.com/github/Kaliostrogoblin/PDD/blob/master/examples/Train_Siamese_Network.ipynb)
+- [Train_Siamese_Network.ipynb](https://colab.research.google.com/gist/AlexanderUzhinskiy/661f982a906ab05d1af9aec5ae2ddda2/copy-of-train-siamese-network.ipynb#scrollTo=lEQsOtGHSBmO)
 - [Metrics.ipynb](https://colab.research.google.com/github/Kaliostrogoblin/PDD/blob/master/examples/Metrics.ipynb)
 
 and follow the instructions in ipynb files.
