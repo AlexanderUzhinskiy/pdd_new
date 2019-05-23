@@ -10,7 +10,7 @@ import numpy as np
 import sys
 
 
-def load_data(path='grape.tar', 
+def load_data(path='crops_nn.tar', 
               split_on_train_test=False, 
               test_size=None, 
               random_state=0):
@@ -25,7 +25,7 @@ def load_data(path='grape.tar',
         Path to the folder with data or tuple with train and test paths
     """
     path = get_file(path,
-                    origin="http://pdd.jinr.ru/images/base/grape/grape.tar",
+                    origin="http://pdd.jinr.ru/crops_nn.tar",
                     file_hash='cbc74aef6e5f20ef22b41d1f0f77e40567e6fd1f4e2c007341df9fb4672c3fd8',
                     extract=True)
 
