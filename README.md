@@ -14,13 +14,13 @@ Plants disease detection is very popular field of study. Many promising results 
 2) clone PDD using git: 
 
 ```Python
-git clone https://github.com/Kaliostrogoblin/PDD.git
+git clone https://github.com/AlexanderUzhinskiy/pdd_new.git
 ```
 
-3) then, `cd` to the PDD folder and feel free to use it:
+3) then, `cd` to the pdd_new folder and feel free to use it:
 
 ```
-cd PDD
+cd pdd_new
 ```
 
 ---
